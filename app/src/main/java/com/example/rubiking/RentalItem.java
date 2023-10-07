@@ -79,6 +79,7 @@ public class RentalItem {
         return location;
     }
 
+    /*
     public static void main(String[] args) {
         RentalItem bike1 = new RentalItem("Darsh", VehicleType.BIKE, LocalDate.now(), LocalTime.of(14, 0), LocalTime.of(16, 30), "Livi Student Center");
 
@@ -87,4 +88,5 @@ public class RentalItem {
         System.out.println(bike1.getTime());
         System.out.println(bike1.getLocation());
     }
+    */
 }
