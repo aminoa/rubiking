@@ -12,5 +12,4 @@ public class RentalItem {
     public LocalTime end_time;
     public int itemId;
     public String location;
-
 }
