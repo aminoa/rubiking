@@ -15,6 +15,7 @@ import com.example.rubiking.databinding.ActivityMainBinding;
 public class MainActivity extends AppCompatActivity {
 
     private ActivityMainBinding binding;
+    //Helo
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
